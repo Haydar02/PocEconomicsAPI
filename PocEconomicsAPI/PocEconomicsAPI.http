@@ -1,0 +1,6 @@
+@PocEconomicsAPI_HostAddress = http://localhost:5124
+
+GET {{PocEconomicsAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
